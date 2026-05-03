@@ -73,4 +73,4 @@ uvicorn main:app --reload
 This project is open-source and available under the MIT License.
 
 ---
-**Developed with ❤️ by [Uzair-hp](https://github.com/Uzair-hp)**
+**Developed by [Uzair-hp](https://github.com/Uzair-hp)**
